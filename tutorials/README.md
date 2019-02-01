@@ -14,17 +14,17 @@ Lastly, test files, such as [*test4.py*](./test4.py), have copies of the working
 Performance varies.
 
 
-[part1_notebook]: https://github.com/YipengHu/ipmi/blob/dev/tutorials/01-CurveFitting.ipynb
-[part1_colab]: https://colab.research.google.com/github/YipengHu/ipmi/blob/dev/tutorials/01-CurveFitting.ipynb
+[part1_notebook]: https://github.com/klinge-th/ipmi/blob/dev/tutorials/01-CurveFitting.ipynb
+[part1_colab]: https://colab.research.google.com/github/klinge-th/ipmi/blob/dev/tutorials/01-CurveFitting.ipynb
 
-[part2_notebook]: https://github.com/YipengHu/ipmi/blob/dev/tutorials/02-CrossValidation.ipynb
-[part2_colab]: https://colab.research.google.com/github/YipengHu/ipmi/blob/dev/tutorials/02-CrossValidation.ipynb
+[part2_notebook]: https://github.com/klinge-th/ipmi/blob/dev/tutorials/02-CrossValidation.ipynb
+[part2_colab]: https://colab.research.google.com/github/klinge-th/ipmi/blob/dev/tutorials/02-CrossValidation.ipynb
 
-[part3_notebook]: https://github.com/YipengHu/ipmi/blob/dev/tutorials/03-CurveFitting-TensorFlow.ipynb
-[part3_colab]: https://colab.research.google.com/github/YipengHu/ipmi/blob/dev/tutorials/03-CurveFitting-TensorFlow.ipynb
+[part3_notebook]: https://github.com/klinge-th/ipmi/blob/dev/tutorials/03-CurveFitting-TensorFlow.ipynb
+[part3_colab]: https://colab.research.google.com/github/klinge-th/ipmi/blob/dev/tutorials/03-CurveFitting-TensorFlow.ipynb
 
-[part4_notebook]: https://github.com/YipengHu/ipmi/blob/dev/tutorials/04-ImageSegmentation-TensorFlow.ipynb
-[part4_colab]: https://colab.research.google.com/github/YipengHu/ipmi/blob/dev/tutorials/04-ImageSegmentation-TensorFlow.ipynb
+[part4_notebook]: https://github.com/klinge-th/ipmi/blob/dev/tutorials/04-ImageSegmentation-TensorFlow.ipynb
+[part4_colab]: https://colab.research.google.com/github/klinge-th/ipmi/blob/dev/tutorials/04-ImageSegmentation-TensorFlow.ipynb
 
 [tf_install]: https://www.tensorflow.org/install/
 [conda_install]: https://www.anaconda.com/download/
